@@ -1,0 +1,27 @@
+moveit_setup_assistant_config:
+  urdf:
+    package: ur_description
+    relative_path: urdf/ur3e_robotiq85_gripper.urdf.xacro
+  srdf:
+    relative_path: config/ur3e.srdf
+  package_settings:
+    author_name: khalil kahlaoui
+    author_email: khalil.kahlaoui@upm.es
+    generated_timestamp: 1682414267
+  control_xacro:
+    command:
+      - position
+      - velocity
+    state:
+      - position
+      - velocity
+  modified_urdf:
+    xacros:
+      - control_xacro
+  control_xacro:
+    command:
+      - position
+      - velocity
+    state:
+      - position
+      - velocity
