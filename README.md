@@ -8,7 +8,7 @@ To get started with this repository, follow these steps:
 
 1. Clone this repository to your local machine.
 ````
-git clone https://github.com/MetaToolEU/ur3e_gripper_humble_moveit2.git
+git clone https://github.com/DarK404/moveit2_tutorials
 ````
 3. Install Docker and Docker Compose if you haven't already.
 4. Open a terminal in the project directory and run the following command to build the Docker container:
