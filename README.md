@@ -20,6 +20,16 @@ git clone https://github.com/MetaToolEU/ur3e_gripper_humble_moveit2.git
 ````docker compose up demo_isaac````
 
 6. In RVIZ, you should see a visualization of the UR3e robot. You can control the robot using Moveit2.
+7. Locate the usd files in your localhost Nucleus environment under the folder ````name ur3e_gripper_humble_moveit2-humble````
 
-![1](https://github.com/DarK404/UR_Isaac-sim/assets/28174056/513c5123-4fbd-4795-b3e9-099a2ef0ba4a)
-![2](https://github.com/DarK404/UR_Isaac-sim/assets/28174056/ea1f0509-01dc-42cf-bc4f-51783011f0ab)
+<p align="center">
+  <img src="https://github.com/DarK404/UR_Isaac-sim/assets/28174056/66bb133d-3a37-4419-91a9-1cd2c9408f52" />
+</p>
+
+<p align="center">
+  <img src="https://github.com/DarK404/UR_Isaac-sim/assets/28174056/513c5123-4fbd-4795-b3e9-099a2ef0ba4a" />
+</p>
+
+<p align="center">
+  <img src="https://github.com/DarK404/UR_Isaac-sim/assets/28174056/ea1f0509-01dc-42cf-bc4f-51783011f0ab" />
+</p>
