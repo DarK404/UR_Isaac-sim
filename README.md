@@ -1,6 +1,6 @@
-# UR3e Gripper Humble Moveit2
+# UR_Isaac-sim
 
-This repository provides a the moveit_config to control a UR3e robot using Moveit2. The container includes Isaac Sim simulation for testing purposes.
+This repository provides a moveit_config to control a UR3e robot using Moveit2. The container includes Isaac Sim simulation for testing purposes.
 
 ## Getting Started
 
